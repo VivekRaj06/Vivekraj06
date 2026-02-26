@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vivek Raj
-Btech Student
+Computer Science Student
 
 💡 Passionate Data Scientist | DevOps Engineer  
 🎯 Focused on Building Scalable & Intelligent Systems  
