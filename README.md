@@ -1,9 +1,18 @@
 # 💫 Hi 👋, I'm Vivek Raj
 Computer Science Student
 
-💡 Passionate Data Scientist | DevOps Engineer  
+Aspiring AI Engineer | Python Developer
 🎯 Focused on Building Scalable & Intelligent Systems  
 📍 India  
+
+
+🚀 Current Focus
+
+• AI Engineering
+• LLM Applications
+• RAG & AI Agents
+• Backend Development
+• Building production-ready AI applications
 
 Email Me 👉 ✉️ **vivek620580@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
